@@ -7,7 +7,6 @@ sections:
 - type: document
   path: octopi
   label: Octopi
-  match: "**/*"
 - type: heading
   label: Content
 - type: jekyll-posts
